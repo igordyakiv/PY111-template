@@ -6,7 +6,7 @@ from typing import Any
 
 def push(elem: Any) -> None:
 	"""
-	Operation that add element to stack
+	Operation that add element to stack111
 
 	:param elem: element to be pushed
 	:return: Nothing
